@@ -1,0 +1,2 @@
+git reset practice homework
+연습 1
