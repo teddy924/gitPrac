@@ -12,10 +12,7 @@ reset을 위한 dummy text3
 
 cherry-pick 브랜치 테스트
 
-<<<<<<< HEAD
 main branch add new line M1.
-=======
 
 conflict-test 브랜치에서 새로운 라인 A1 추가
 conflict-test 브랜치에서 새로운 라인 A2 추가
->>>>>>> 06ecf4e (conflict-test: add lines A1 & A2)
